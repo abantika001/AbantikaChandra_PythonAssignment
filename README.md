@@ -22,7 +22,8 @@
 
 ## Upload to AWS S3 Bucket
 
-<img width="900" alt="Screenshot 2023-04-23 at 6 03 54 PM" src="https://user-images.githubusercontent.com/73490217/233855263-f77915c3-99b9-423a-a8e5-c27ce09e2af1.png">
+
+![2023-04-23 (3)](https://user-images.githubusercontent.com/83744282/233856543-53a5e1cf-4625-4fe7-bf4a-dcc7405d6f0f.png)
 
 
 
